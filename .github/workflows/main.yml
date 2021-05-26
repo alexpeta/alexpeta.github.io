@@ -22,5 +22,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2 
           
-      - name: Run a Hugo Build
-      - uses: srt32/hugo-action@v0.0.3
+      - name: Hugo Actions
+        uses: srt32/hugo-action@v0.0.3
+
