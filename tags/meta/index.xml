@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>meta on Alex Peta&#39;s Blog</title>
-		<link>https://https://alexpeta.github.io/tags/meta/</link>
+		<link>https://alexpeta.github.io/tags/meta/</link>
 		<description>Recent content in meta </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
@@ -11,22 +11,22 @@
     	
   		<lastBuildDate>Thu, 30 Dec 2021 10:29:03 -0500</lastBuildDate>
 		
-		<atom:link href="/alexpeta.github.io/tags/meta/" rel="self" type="application/rss+xml" />
+		<atom:link href="/tags/meta/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Reflecting Back on 2021</title>
-			<link>https://https://alexpeta.github.io/2021/12/30/reflecting-back-on-2021/</link>
+			<link>https://alexpeta.github.io/2021/12/30/reflecting-back-on-2021/</link>
 			<pubDate>Thu, 30 Dec 2021 10:29:03 -0500</pubDate>
-			<guid>https://https://alexpeta.github.io/2021/12/30/reflecting-back-on-2021/</guid>
+			<guid>https://alexpeta.github.io/2021/12/30/reflecting-back-on-2021/</guid>
 			<description>2021
 Thinking about the past year, I get mixed memories of deja-vu from 2020. The last 2 years have had the same slow perceived velocity. Pandemic, stay at home, masks, isolation and a lot of work from home. The plan for myself and and my family, like anyone else, was to get back to &amp;ldquo;normal&amp;rdquo; this year. But going back meant we adapted and changed to live with it. We are extremely fortunate to be able to live our lives and function almost the same with the help of the digital technology.</description>
 		</item>
       	
 		<item>
 			<title>Yet another First Post</title>
-			<link>https://https://alexpeta.github.io/2021/05/25/my-first-post/</link>
+			<link>https://alexpeta.github.io/2021/05/25/my-first-post/</link>
 			<pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-			<guid>https://https://alexpeta.github.io/2021/05/25/my-first-post/</guid>
+			<guid>https://alexpeta.github.io/2021/05/25/my-first-post/</guid>
 			<description>&lt;p&gt;Well, here we go again. It&amp;rsquo;s been a really long time since I blogged. Third time is the charm as they say.
 Long story short, I&amp;rsquo;ve lost this blog 2 times now and because of other priorities, I didn&amp;rsquo;t get around to rebuilding it. But I&amp;rsquo;m doing it now and its here to stay.&lt;/p&gt;</description>
 		</item>
