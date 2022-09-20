@@ -32,38 +32,25 @@ Health should be the most important asset that we have as it pertains to the mos
 You know you should eat less sugar. You know you need to exercise more. You know you need to meditate and limit binge-watching or long video gaming sessions. You know, you know, you know.
 But it's been a very challenging year and you're probably stuck in a rut - almost everyone is, I know I am - and you dont know how to get your mojo back.
 
-Behavioral Scientist BJ Fogg, PhD, wrote in his book titled ["Tiny Habits"](https://tinyhabits.com/) (published in 2020) that you need to stop blaming yourself. There is no panacea, no magic product that will make things better. It's you, yourself, making small behavioral adjustments one (baby) step at a time which eventually lead to long term healthier choices.
+Behavioral Scientist BJ Fogg, PhD, wrote in his book titled ["Tiny Habits"](https://tinyhabits.com/) (published in 2020) about this topic and that you need to stop blaming yourself. There is no panacea, no magic product that will make things better. It's you, yourself, making small behavioral adjustments one (small) step at a time which eventually lead to long term healthier choices.
 
 *Unemployment and the mind*
 
-During a part of 2021 and half of 2020, I was unable to work. Not because of any issues with myself or my performance, but because I was stuck in an immigration work permit process that, inefficient as it normally is in my opinion, got almost to the brink of colapse due to lack of funding at the start of the COVID-19 pandemic.
+During a part of 2021, I was unable to work. Not because of any issues with myself, but because I was stuck in an immigration work permit process that, inefficient as it normally is in my opinion, got almost to the brink of colapse due to lack of funding at the start of the COVID-19 pandemic.
 
 In the world of software engineering, we regularly do stress testing. It's part of the pyramid of testing which describes all the layers and types of testing that a software product must undergo in order to meet high levels of quality.
 COVID-19 can be considered the best stress test of stress tests on all the public and private systems,and systems that did not have the appropriate means to scale and function in a remote first world, would need to shutdown in person services, lose revenue, cut staff and downscale operations and all of this would mean processing times would exponentially grow.
 
-For me this meant I had to wait, not knowing how long to wait and to wait at home mostly, part of it in a lockdown.
-When all of a sudden you have this seemingly "free" time on your hands, it must be the greatest thing possible right? Isn't that what we want? To not do anything? 
-
-The answer for me was
-
+This meant I had to wait, not knowing how long and stay at home mostly, some of it in a lockdown.
+When all of a sudden you have this seemingly "free" time on your hands, it must be the great right?  
+The answer dependes on how you utilize it.
 
 
+For myself, I tried a few things:
 
+* Kept my mind busy and healthy. Exercise is key alog with meditation or any other form of midnfullness. Even playing a video game when you are fully connected in the present and emersed.
+* Eat Good quality food. This does not mean expensive food. It means going for organic choices and making sure the diet is well balanced.
+* Spend quality time with people - socialize whenever you can
+* Take on learning opportunitites with small projects - for me this was picking up electronics.
 
-
-* Keep yourself mind busy and healthy. Exercise is key alog with meditation or any other form of midnfullness. Like even playing a video game when you are fully connected in the present and emersed.
-* Eat Good quality food. This does not mean expensive food. It means looking for organic choices and making sure the diet is well balanced.
-* Manage the pressure that you put on yourself
-* Go for the endorfins
-
-My wife and I are very fortunate to have a great part of our lives (work and outside work) to be digital. 
-
-
-
-
-
-
-
-
-
-
+I am very grateful to have a to be able to function as a whole ( at work and outside work) in a digital environment but the social social connection that we need and crave will never be replaced.
