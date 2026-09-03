@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Alex Peta&#39;s Blog on Alex Peta&#39;s Blog</title>
-		<link>https://alexpeta.github.io/</link>
-		<description>Recent content in Alex Peta&#39;s Blog </description>
+		<title>personal on Alex Peta&#39;s Blog</title>
+		<link>https://alexpeta.github.io/tags/personal/</link>
+		<description>Recent content in personal </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
   		<language>en</language>
 		
-		<managingEditor>Page(&#34;Alex Peta&#39;s Blog&#34;) (Alex Peta)</managingEditor>
+		<managingEditor>Page(/tags/personal) (Alex Peta)</managingEditor>
     	
-  		<lastBuildDate>Thu, 30 Dec 2021 10:29:03 -0500</lastBuildDate>
+  		<lastBuildDate>Thu, 30 Mar 2017 19:30:54 +0000</lastBuildDate>
 		
-		<atom:link href="/" rel="self" type="application/rss+xml" />
+		<atom:link href="/tags/personal/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Reflecting Back on 2021</title>
