@@ -61,4 +61,4 @@ Si sa știi ca ai scris foarte bine…
 
 ---
 
-<small>Preserved as written. Original: [alexpeta.ro, March 30, 2017](http://alexpeta.ro/2017/03/30/in-memoriam-georgeta-peta/), recovered from the [Wayback Machine capture of August 31, 2018](https://web.archive.org/web/20180831150022/http://alexpeta.ro/2017/03/30/in-memoriam-georgeta-peta/). The photograph that stood above these words was not kept by the archive, and no other copy exists; her caption is kept in its place.</small>
+*Preserved as written. Original: [alexpeta.ro, March 30, 2017](http://alexpeta.ro/2017/03/30/in-memoriam-georgeta-peta/), recovered from the [Wayback Machine capture of August 31, 2018](https://web.archive.org/web/20180831150022/http://alexpeta.ro/2017/03/30/in-memoriam-georgeta-peta/); the [raw capture](/2017/03/30/in-memoriam-georgeta-peta/web-archive-2018-08-31.html) is kept beside this page. The photograph that stood above these words was not kept by the archive, and no other copy exists; her caption is kept in its place.*
