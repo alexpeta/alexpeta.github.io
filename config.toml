@@ -1,20 +1,23 @@
 baseURL = "https://alexpeta.github.io/"
 title = "Alex Peta's Blog"
 author = "Alex Peta"
-paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 theme = "harbor"
+capitalizeListTitles = false
 
-[Author]
+[pagination]
+  pagerSize = 3
+
+[params.author]
   name = "Alex Peta"
 
 [permalinks]
-	post = "/:year/:month/:day/:filename/"
-	page = "/:filename/"
+	post = "/:year/:month/:day/:contentbasename/"
+	page = "/:contentbasename/"
 
 [outputs]
     section = ["JSON", "HTML"]

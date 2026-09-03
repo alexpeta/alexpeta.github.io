@@ -3,7 +3,7 @@
 {{ with .Site.Params.description }}
   <meta name="description" content="{{ . }}" />
 {{ end }}
-{{- with .Site.Author.Name }}
+{{- with .Site.Params.author.name }}
   <meta name="author" content="{{ . }}" />
 {{- end }}
 {{ partial "analytics.html" . }}
